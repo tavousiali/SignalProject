@@ -6,6 +6,7 @@ library("NoavaranSymbols", lib.loc="C:/Program Files/R/R-3.5.2/library")
 library(NoavaranIndicators)
 library(TTR)
 # plumber.R
+# 123
 
 #* @filter cors
 cors <- function(res) {
